@@ -1,2 +1,2 @@
 # SENTIMENT-ANALYSIS-OF-TWITTER
-sentiment analysis of twitter text using natural language processing libraries.In this we classify the text based on the sentiment.
+Sentiment analysis is the process of determining the sentiment or emotional tone expressed in text data. In this project, we leverage Natural Language Processing (NLP) libraries to perform sentiment analysis specifically on Twitter data. The main objective is to understand the overall sentiment (positive, negative, or neutral) of tweets related to specific topics, events, or keywords.
